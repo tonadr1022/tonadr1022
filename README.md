@@ -1,4 +1,4 @@
-### Hello! 👋
+# Hello! 👋
 Here, you can find some of the projects I've worked on, competently or otherwise.
 
 ## About me
