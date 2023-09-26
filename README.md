@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! 👋
+Here, you can find some of the projects I've worked on, competently or otherwise.
+
+## About me
+- I enjoy programming in Pyhthon, JavaScript/TypeScript the most, but I also know Java (C coming soon!).
+- Much of my work on here has been focused on web development, specifically web apps with React and various back end technologies
+- In the future, I'm looking to get more into lower level programming, but I've greatly enjoyed the work I've done thus far!
+- Some hobbies of mine include running cross country and track, speedcubing, and skiing.
 
 <!--
 **tonadr1022/tonadr1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
