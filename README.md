@@ -1,10 +1,11 @@
+<!--
 # Hello! 👋
 Here, you can find some of the projects I've worked on, competently or otherwise.
 
 ## About me
 - Much of my recent interest has been involved with graphics and rendering (see my voxel engine), but I've also worked quite a bit with web development, specifically web apps with React and various back end technologies.
 - Some hobbies of mine include running cross country and track, speedcubing, and skiing.
-
+-->
 <!--
 **tonadr1022/tonadr1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
