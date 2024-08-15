@@ -1211,15 +1211,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 690kb of code in 926 edited files across 146 commits over last 14 days</small>
+                <small>estimation from 667kb of code in 886 edited files across 138 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.2567535154518" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="436.2567535154518" y="0" width="21.67626955736972" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="457.9330230728215" y="0" width="2.0669769271785103" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.2734258359279" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="436.2734258359279" y="0" width="21.606728027639384" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="457.88015386356733" y="0" width="2.1198461364326433" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1231,7 +1231,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>549 kB</div>
+                                <div>527 kB</div>
                                 <div>94.84%</div>
                             </small>
                         </div>
@@ -1243,8 +1243,8 @@
                                 CMake
                             </div>
                             <small>
-                                <div>2.60 kB</div>
-                                <div>0.45%</div>
+                                <div>2.56 kB</div>
+                                <div>0.46%</div>
                             </small>
                         </div>
                     </section>
@@ -1257,8 +1257,8 @@
                                 GLSL
                             </div>
                             <small>
-                                <div>27.3 kB</div>
-                                <div>4.71%</div>
+                                <div>26.1 kB</div>
+                                <div>4.7%</div>
                             </small>
                         </div>
                     </section>
