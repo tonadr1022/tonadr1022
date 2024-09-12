@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1117,12 +1117,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.43165923296988" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="222.43165923296988" y="0" width="82.5857528969597" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="305.01741212992954" y="0" width="62.568585509923295" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="367.58599763985285" y="0" width="37.11589077272113" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="404.70188841257396" y="0" width="32.79763537083266" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="437.49952378340663" y="0" width="22.50047621659333" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.4547268160939" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="222.4547268160939" y="0" width="82.56858820661087" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="305.02331502270476" y="0" width="62.55558120399679" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="367.57889622670154" y="0" width="37.10817657566187" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="404.6870728023634" y="0" width="32.790818683503836" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="437.4778914858673" y="0" width="22.522108514132736" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1135,7 +1135,7 @@
                             </div>
                             <small>
                                 <div>1.64 MB</div>
-                                <div>48.35%</div>
+                                <div>48.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1196,8 +1196,8 @@
                                 CMake
                             </div>
                             <small>
-                                <div>165 kB</div>
-                                <div>4.89%</div>
+                                <div>166 kB</div>
+                                <div>4.9%</div>
                             </small>
                         </div>
                     </section>
@@ -1205,7 +1205,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 455kb of code in 238 edited files across 38 commits over last 13 days</small>
+                <small>estimation from 455kb of code in 238 edited files across 38 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
