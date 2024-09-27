@@ -1179,15 +1179,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 82.3kb of code in 93 edited files across 24 commits over last 11 days</small>
+                <small>estimation from 86.3kb of code in 98 edited files across 26 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.7935660774617" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="291.7935660774617" y="0" width="167.92488860598345" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.7184546834452" y="0" width="0.2815453165548646" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.45420819738075" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="306.45420819738075" y="0" width="153.28878558977337" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.74299378715415" y="0" width="0.25700621284584096" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1199,8 +1199,8 @@
                                 C
                             </div>
                             <small>
-                                <div>25.9 kB</div>
-                                <div>63.43%</div>
+                                <div>29.8 kB</div>
+                                <div>66.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1226,7 +1226,7 @@
                             </div>
                             <small>
                                 <div>14.9 kB</div>
-                                <div>36.51%</div>
+                                <div>33.32%</div>
                             </small>
                         </div>
                     </section>
