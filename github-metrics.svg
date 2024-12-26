@@ -1205,17 +1205,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.58mb of code in 930 edited files across 141 commits over last 14 days</small>
+                <small>estimation from 1.45mb of code in 870 edited files across 135 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.7371958827199" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="415.7371958827199" y="0" width="31.813677479725516" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="447.55087336244543" y="0" width="7.674438552713662" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.2253119151591" y="0" width="4.279678727386151" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="459.50499064254524" y="0" width="0.49500935745477226" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="416.0067194499427" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="416.0067194499427" y="0" width="30.147116019029763" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="446.15383546897243" y="0" width="8.530454561239019" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.68429003021146" y="0" width="4.764610896968434" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="459.44890092717986" y="0" width="0.5510990728200854" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1227,8 +1227,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>1.16 MB</div>
-                                <div>90.38%</div>
+                                <div>1.04 MB</div>
+                                <div>90.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1240,7 +1240,7 @@
                             </div>
                             <small>
                                 <div>21.3 kB</div>
-                                <div>1.67%</div>
+                                <div>1.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1252,7 +1252,7 @@
                             </div>
                             <small>
                                 <div>1.38 kB</div>
-                                <div>0.11%</div>
+                                <div>0.12%</div>
                             </small>
                         </div>
                     </section>
@@ -1265,8 +1265,8 @@
                                 GLSL
                             </div>
                             <small>
-                                <div>88.6 kB</div>
-                                <div>6.92%</div>
+                                <div>75.4 kB</div>
+                                <div>6.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1278,7 +1278,7 @@
                             </div>
                             <small>
                                 <div>11.9 kB</div>
-                                <div>0.93%</div>
+                                <div>1.04%</div>
                             </small>
                         </div>
                     </section>
