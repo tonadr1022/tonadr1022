@@ -1211,14 +1211,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 154kb of code in 92 edited files across 20 commits over last 14 days</small>
+                <small>estimation from 171kb of code in 102 edited files across 22 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.67806767731975" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="445.67806767731975" y="0" width="14.321932322680244" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.7297834933265" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="446.7297834933265" y="0" width="13.27021650667349" height="8" fill="#5686a5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1230,8 +1230,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>101 kB</div>
-                                <div>96.89%</div>
+                                <div>117 kB</div>
+                                <div>97.12%</div>
                             </small>
                         </div>
                     </section>
@@ -1244,8 +1244,8 @@
                                 GLSL
                             </div>
                             <small>
-                                <div>3.25 kB</div>
-                                <div>3.11%</div>
+                                <div>3.50 kB</div>
+                                <div>2.88%</div>
                             </small>
                         </div>
                     </section>
