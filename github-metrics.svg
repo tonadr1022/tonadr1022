@@ -1206,17 +1206,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 593kb of code in 404 edited files across 71 commits over last 13 days</small>
+                <small>estimation from 629kb of code in 426 edited files across 73 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.1054336340514" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="312.1054336340514" y="0" width="117.33488382795173" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="429.4403174620032" y="0" width="26.358479311693667" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="455.79879677369684" y="0" width="4.015568665140951" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.8143654388378" y="0" width="0.18563456116223376" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.0021794769255" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="318.0021794769255" y="0" width="110.46012290383642" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="428.4623023807619" y="0" width="27.582646831427127" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="456.04494921218907" y="0" width="3.780292729744861" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.82524194193394" y="0" width="0.17475805806606415" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1228,8 +1228,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>383 kB</div>
-                                <div>67.85%</div>
+                                <div>414 kB</div>
+                                <div>69.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1240,8 +1240,8 @@
                                 GLSL
                             </div>
                             <small>
-                                <div>32.3 kB</div>
-                                <div>5.73%</div>
+                                <div>35.9 kB</div>
+                                <div>6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1267,7 +1267,7 @@
                             </div>
                             <small>
                                 <div>144 kB</div>
-                                <div>25.51%</div>
+                                <div>24.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1279,7 +1279,7 @@
                             </div>
                             <small>
                                 <div>4.93 kB</div>
-                                <div>0.87%</div>
+                                <div>0.82%</div>
                             </small>
                         </div>
                     </section>
