@@ -1196,16 +1196,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 94.8kb of code in 131 edited files across 21 commits over last 9 days</small>
+                <small>estimation from 114kb of code in 152 edited files across 23 commits over last 9 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="408.9257272490961" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="408.9257272490961" y="0" width="21.09932178557081" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="430.02504903466695" y="0" width="20.4851478129357" height="8" fill="#8f14e9"/>
-                    <rect mask="url(#languages-bar)" x="450.51019684760263" y="0" width="9.489803152397382" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="400.34533929536633" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="400.34533929536633" y="0" width="30.13021473146283" height="8" fill="#8f14e9"/>
+                    <rect mask="url(#languages-bar)" x="430.4755540268291" y="0" width="18.534715738784335" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="449.0102697656135" y="0" width="10.989730234386515" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1217,24 +1217,10 @@
                                 C++
                             </div>
                             <small>
-                                <div>75.2 kB</div>
-                                <div>88.9%</div>
+                                <div>88.5 kB</div>
+                                <div>87.03%</div>
                             </small>
                         </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#8f14e9" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Metal
-                            </div>
-                            <small>
-                                <div>3.77 kB</div>
-                                <div>4.45%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1243,8 +1229,22 @@
                                 CMake
                             </div>
                             <small>
-                                <div>3.88 kB</div>
-                                <div>4.59%</div>
+                                <div>4.10 kB</div>
+                                <div>4.03%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#8f14e9" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Metal
+                            </div>
+                            <small>
+                                <div>6.67 kB</div>
+                                <div>6.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1255,8 +1255,8 @@
                                 C
                             </div>
                             <small>
-                                <div>1.75 kB</div>
-                                <div>2.06%</div>
+                                <div>2.43 kB</div>
+                                <div>2.39%</div>
                             </small>
                         </div>
                     </section>
