@@ -1184,16 +1184,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 126kb of code in 161 edited files across 25 commits over last 14 days</small>
+                <small>estimation from 116kb of code in 135 edited files across 23 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.3929107574928" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="383.3929107574928" y="0" width="49.711944331608414" height="8" fill="#8f14e9"/>
-                    <rect mask="url(#languages-bar)" x="433.10485508910125" y="0" width="16.6545981173063" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="449.7594532064075" y="0" width="10.240546793592483" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.1609129267357" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="386.1609129267357" y="0" width="52.26390487149981" height="8" fill="#8f14e9"/>
+                    <rect mask="url(#languages-bar)" x="438.4248177982355" y="0" width="11.120636747219026" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.5454545454545" y="0" width="10.454545454545455" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1205,20 +1205,20 @@
                                 C++
                             </div>
                             <small>
-                                <div>94.3 kB</div>
-                                <div>83.35%</div>
+                                <div>87.5 kB</div>
+                                <div>83.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CMake
+                                C
                             </div>
                             <small>
-                                <div>4.10 kB</div>
-                                <div>3.62%</div>
+                                <div>2.52 kB</div>
+                                <div>2.42%</div>
                             </small>
                         </div>
                     </section>
@@ -1231,20 +1231,20 @@
                                 Metal
                             </div>
                             <small>
-                                <div>12.2 kB</div>
-                                <div>10.81%</div>
+                                <div>11.8 kB</div>
+                                <div>11.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C
+                                CMake
                             </div>
                             <small>
-                                <div>2.52 kB</div>
-                                <div>2.23%</div>
+                                <div>2.37 kB</div>
+                                <div>2.27%</div>
                             </small>
                         </div>
                     </section>
